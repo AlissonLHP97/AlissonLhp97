@@ -124,11 +124,11 @@
       />
     </a>
     <a href="https://github.com/AlissonLHP97/DeliveryTracking">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=AlissonLHP97&repo=DeliveryTracking&theme=github_dark"
-        alt="DeliveryTracking"
-      />
-    </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=AlissonLHP97&repo=DeliveryTracking&theme=github_dark&cache_seconds=86400"
+    alt="DeliveryTracking"
+  />
+</a>
   </section>
 
 </main>
